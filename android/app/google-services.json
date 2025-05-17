@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519891945492",
+    "project_id": "volunteerfinder-b57ef",
+    "storage_bucket": "volunteerfinder-b57ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519891945492:android:fd1979ad9706c41a69bf01",
+        "android_client_info": {
+          "package_name": "com.example.volunteerfind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5w5ARjtXf1HpQTv6eCWFbWCamCQRqnB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
